@@ -1,5 +1,5 @@
 const config = {
-	topojsonUrl : "https://raw.githubusercontent.com/ghapsara/indonesia-atlas/master/kabupaten-kota/Sumatera%20Barat/sumatera-barat-simplified-topo.json",
+	topojsonUrl : "https://raw.githubusercontent.com/azharisikumbang/sumbar-map-example/main/js/topo-sumbar.json",
 	style: {
 		width: 960,
 		height: 620,
